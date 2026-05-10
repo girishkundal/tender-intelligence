@@ -1,0 +1,82 @@
+TENDER DOCUMENT
+Project: Severn Water — Trunk Main Replacement, Microtunnelling Works
+Contract Reference: SW-UTL-2024-112
+Client: Severn Trent Water Ltd
+Issue Date: 2 February 2024
+Tender Deadline: 15 March 2024
+
+1. INTRODUCTION
+Severn Trent Water invites suitably qualified contractors to tender for microtunnelling works associated with the replacement of a 600mm diameter trunk water main. The works are located in Coventry city centre and involve crossing beneath three main roads, a railway line, and the River Sherbourne.
+
+2. DESCRIPTION OF WORKS
+The works comprise:
+- Five microtunnel drives totalling 890 metres
+- Pipe diameter: 900mm OD steel carrier pipe (600mm DI liner)
+- Method: Slurry microtunnelling with remote-controlled MTBM
+- Shaft construction: 6 launch shafts, 4 reception shafts (secant pile or sheet pile)
+- Dewatering: Wellpoint system — expected yield 15 litres/second
+
+Drive Schedule:
+Drive 1: Corporation Street underpass — 95m, depth 6.5m
+Drive 2: Ring Road underpass — 140m, depth 8.2m
+Drive 3: Railway crossing (Network Rail possession required) — 220m, depth 11.5m
+Drive 4: River Sherbourne crossing — 85m, depth 4.8m
+Drive 5: Hales Street underpass — 350m, depth 7.1m
+
+3. GROUND CONDITIONS
+Made ground to 2.5m depth, Mercia Mudstone below, with sandstone bands at 6–9m depth. Groundwater table at 3.5m.
+
+4. CONTRACT VALUE AND DURATION
+Estimated contract value: £4,200,000 — £5,800,000
+Contract duration: 14 months
+Start date: June 2024
+
+5. BILLS OF QUANTITIES
+
+Item    Description                                  Unit    Quantity    Rate (£)    Amount (£)
+1.0     PRELIMINARIES
+1.1     Contractor's site establishment              Sum     1           85,000      85,000
+1.2     Traffic management — Roads                  Week    52          4,500       234,000
+1.3     Network Rail possession costs               Sum     1           125,000     125,000
+
+2.0     SHAFT CONSTRUCTION
+2.1     Launch shafts (average 4m dia x 8m deep)    No.     6           35,000      210,000
+2.2     Reception shafts (average 3m dia x 8m deep) No.     4           22,000      88,000
+2.3     Shaft dewatering                            Sum     1           45,000      45,000
+
+3.0     MICROTUNNELLING
+3.1     Microtunnel Drive 1 — Corporation St        m       95          3,200       304,000
+3.2     Microtunnel Drive 2 — Ring Road             m       140         3,400       476,000
+3.3     Microtunnel Drive 3 — Railway               m       220         4,800       1,056,000
+3.4     Microtunnel Drive 4 — River crossing        m       85          4,200       357,000
+3.5     Microtunnel Drive 5 — Hales Street          m       350         3,100       1,085,000
+
+4.0     PIPEWORK
+4.1     Supply 900mm OD steel carrier pipe          m       890         420         373,800
+4.2     Thrust boring and jacking                   Sum     1           65,000      65,000
+
+TOTAL ESTIMATED CONTRACT SUM:                                                       £4,503,800
+
+6. QUALIFICATION REQUIREMENTS
+- Minimum 5 years microtunnelling experience
+- Evidence of at least 3 railway crossings completed
+- Annual turnover minimum £10 million
+- Microtunnelling Association membership preferred
+- CHAS accreditation required
+
+7. EVALUATION
+Price: 55%
+Technical approach and programme: 30%
+Health, safety and environment: 15%
+
+8. KEY RISKS
+- Railway possession window constraints limiting drive 3 productivity
+- Sandstone bands causing cutter wear and MTBM intervention
+- River Sherbourne flood risk during shaft construction
+- Urban traffic impact of lane closures
+
+9. SUBMISSION REQUIREMENTS
+Method statement for each drive
+Programme (Gantt chart, P6 preferred)
+Key personnel CVs
+Insurance certificates (minimum £10m public liability)

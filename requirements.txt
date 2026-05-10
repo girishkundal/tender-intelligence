@@ -1,0 +1,26 @@
+# Tender Intelligence System — Dependencies
+# Python 3.11+
+
+# LLM & RAG
+langchain==0.3.14
+langchain-community==0.3.14
+langchain-openai==0.3.0
+openai==1.59.6
+faiss-cpu==1.9.0
+tiktoken==0.8.0
+
+# Document loading
+pypdf==5.1.0
+
+# API backend
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+python-multipart==0.0.20
+pydantic==2.10.4
+
+# Frontend
+streamlit==1.41.1
+
+# Utilities
+python-dotenv==1.0.1
+requests==2.32.3

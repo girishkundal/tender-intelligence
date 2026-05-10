@@ -1,0 +1,78 @@
+REQUEST FOR PROPOSAL
+Project: A303 Stonehenge Tunnel — Monitoring and Instrumentation Package
+Contract Reference: HS-A303-MON-2024-008
+Client: Highways England / National Highways
+Issue Date: 10 January 2024
+Response Deadline: 28 February 2024
+
+1. PROJECT BACKGROUND
+National Highways is procuring specialist instrumentation and monitoring services for the A303 Stonehenge Improvement Scheme. The project involves construction of a 3.3km bored tunnel to remove the A303 from the World Heritage Site. This package covers real-time geotechnical and structural monitoring throughout the construction phase.
+
+2. MONITORING SCOPE
+2.1 Surface and Subsurface Monitoring
+- 450 settlement monitoring points (surface)
+- 85 inclinometers (subsurface movement)
+- 120 vibrating wire piezometers (groundwater)
+- 60 earth pressure cells (tunnel lining loads)
+- 30 extensometers (heave/settlement at depth)
+
+2.2 Structural Monitoring (Heritage Assets)
+- Monitoring of 14 scheduled monuments within influence zone
+- 6 crack monitoring arrays on existing structures
+- Photogrammetric baseline survey and periodic repeat surveys
+- Vibration monitoring at 8 receptor locations
+
+2.3 Data Management and Reporting
+- Automated data acquisition at 5-minute intervals from all instruments
+- Real-time dashboard for project team access
+- Trigger level alerting (Yellow/Amber/Red) with automated notifications
+- Monthly instrumentation reports
+- 5-year data retention and archive
+
+3. TRIGGER LEVELS
+Instrument Type           Green (Normal)    Amber (Alert)     Red (Action)
+Surface settlement        < 5mm             5–15mm            > 15mm
+Piezometric level         ± 0.5m            ± 0.5–1.5m        > ± 1.5m
+Lining hoop stress        < 60% design      60–80% design     > 80% design
+Vibration (PPV)           < 3 mm/s          3–8 mm/s          > 8 mm/s
+
+4. CONTRACT DETAILS
+Estimated value: £1,800,000 – £2,400,000
+Duration: 36 months (full construction phase)
+Start: April 2024
+Mobilisation period: 6 weeks
+
+5. BILLS OF QUANTITIES
+
+Item    Description                                       Unit    Qty     Rate £      Total £
+A1      Instrument supply and installation — settlement   No.     450     850         382,500
+A2      Instrument supply and installation — piezometers  No.     120     1,200       144,000
+A3      Instrument supply and installation — inclinometer No.     85      2,800       238,000
+A4      Earth pressure cells                              No.     60      1,800       108,000
+A5      Extensometers                                     No.     30      2,200       66,000
+B1      Data acquisition system — hardware               Sum     1       185,000     185,000
+B2      Real-time monitoring platform — setup             Sum     1       65,000      65,000
+B3      Real-time monitoring platform — annual licence    Year    3       28,000      84,000
+C1      Monitoring — monthly site visits and reporting    Month   36      8,500       306,000
+C2      Structural monitoring — heritage assets           Sum     1       145,000     145,000
+D1      Demobilisation and archive                        Sum     1       35,000      35,000
+
+TOTAL:                                                                               £1,758,500
+
+6. TECHNICAL REQUIREMENTS
+- Experience on minimum 3 major tunnel monitoring projects
+- Proprietary or third-party SCADA system with demonstrated uptime > 99%
+- BS EN ISO 17123 compliance for survey instruments
+- Named Geotechnical Instrumentation Manager with ICE membership
+- 24/7 response capability for Red trigger events
+
+7. SCORING
+Technical (monitoring system capability): 35%
+Experience and personnel: 25%
+Price: 30%
+Reporting and data management: 10%
+
+8. SPECIAL CONDITIONS
+All works within the World Heritage Site buffer zone require consent from Historic England.
+Working hours restriction: 07:00–19:00 Monday–Saturday. No Sunday working.
+Heritage monitor required on site during all excavation within 100m of scheduled monuments.

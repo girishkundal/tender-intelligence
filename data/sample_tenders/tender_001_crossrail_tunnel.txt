@@ -1,0 +1,79 @@
+INVITATION TO TENDER
+Project: Northern Line Extension — Tunnel Boring Works
+Contract Reference: NLE-TBW-2024-047
+Issuing Authority: Transport for London (TfL)
+Issue Date: 15 March 2024
+Tender Return Date: 30 April 2024
+
+1. PROJECT OVERVIEW
+Transport for London invites tenders for the design, supply, and operation of tunnel boring machine (TBM) works for the Northern Line Extension Phase 2. The project involves the construction of approximately 3.2 kilometres of twin-bore running tunnels and one station box excavation in mixed ground conditions.
+
+2. SCOPE OF WORKS
+2.1 Tunnel Boring
+- Twin-bore tunnel construction using Earth Pressure Balance (EPB) TBM
+- Tunnel internal diameter: 5.6 metres
+- Total tunnel length: 3,200 metres (two bores)
+- Ground conditions: London Clay overlying Thanet Sand, with potential for mixed face conditions
+- Maximum groundwater pressure: 2.5 bar
+
+2.2 Tunnel Lining
+- Precast concrete segmental lining, 275mm thickness
+- Six segments plus key per ring
+- Ring width: 1.4 metres
+- Total rings: approximately 2,285
+
+2.3 Instrumentation and Monitoring
+- Real-time settlement monitoring using automated total stations
+- Groundwater pressure monitoring via vibrating wire piezometers
+- Structural monitoring of adjacent buildings within 50m of tunnel alignment
+- Continuous data feed to project control room — minimum 15-minute intervals
+
+3. GROUND CONDITIONS
+Geotechnical Investigation Report (GIR) reference: NLE-GIR-2023-011 — available in data room.
+Key parameters:
+- Undrained shear strength (Cu): 80–150 kPa
+- SPT N-values in Thanet Sand: 25–45
+- Coefficient of earth pressure at rest (K0): 1.2–1.8
+- Estimated settlement trough width parameter (i): 8–12 metres
+
+4. PROGRAMME
+Contract commencement: September 2024
+TBM launch: November 2024
+Tunnel breakthrough (first bore): August 2025
+Tunnel breakthrough (second bore): February 2026
+Practical completion: June 2026
+Total contract duration: 22 months
+
+5. BILLS OF QUANTITIES — SUMMARY
+
+Item    Description                                  Unit    Quantity    Rate (£)    Amount (£)
+A       TBM mobilisation and commissioning           Sum     1           450,000     450,000
+B       Tunnel boring — running tunnels              m       3,200       8,500       27,200,000
+C       Precast concrete segments supply             No.     13,710      285         3,907,350
+D       Grouting — annulus and contact               m3      2,100       320         672,000
+E       Instrumentation and monitoring               Sum     1           380,000     380,000
+F       Temporary works and ground treatment         Sum     1           750,000     750,000
+G       Mechanical and electrical fit-out            Sum     1           1,200,000   1,200,000
+
+TOTAL CONTRACT SUM (EXCLUDING VAT):                                                 £34,559,350
+
+6. ESSENTIAL REQUIREMENTS
+6.1 The tenderer must demonstrate a minimum of 10 years experience in soft ground TBM tunnelling.
+6.2 ISO 9001:2015 and ISO 14001:2015 certification required.
+6.3 Minimum annual turnover: £50 million.
+6.4 Key personnel: Tunnel Manager with minimum 15 years TBM experience; Resident Engineer; Health & Safety Manager.
+
+7. EVALUATION CRITERIA
+Technical quality: 40%
+Commercial (price): 45%
+Social value and sustainability: 15%
+
+8. RISK REGISTER — KEY ITEMS
+Risk 1: Mixed face ground conditions causing TBM instability — Probability: Medium, Impact: High
+Risk 2: Settlement exceeding trigger levels — Probability: Low, Impact: High
+Risk 3: Existing utility conflicts — Probability: Medium, Impact: Medium
+Risk 4: Segment cracking during installation — Probability: Low, Impact: Medium
+
+9. CONTACT
+Procurement Lead: Sarah Chen, s.chen@tfl.gov.uk
+Technical Queries: Dr. James Whitfield, j.whitfield@tfl.gov.uk
