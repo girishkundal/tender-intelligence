@@ -2,7 +2,7 @@
 
 **LLM-powered document intelligence for tunnelling and civil engineering tenders.**
 
-A production-style RAG (Retrieval-Augmented Generation) pipeline that ingests unstructured tender documents, extracts structured commercial intelligence, and answers free-form questions — built to demonstrate applied AI engineering for the HB Tunnelling KTP Associate role.
+A production-style RAG (Retrieval-Augmented Generation) pipeline that ingests unstructured tender documents, extracts structured commercial intelligence, and answers free-form questions.
 
 ---
 
